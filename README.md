@@ -8,4 +8,4 @@ Datos de años anteriores.
 
 ### Mapa con el mayor % de siniestros
 
-!(https://github.com/vittoriadelsignore/Dashboard_Tableau_Ppto/commit/30086ebabcf67fb28408e9c8346467ba9df5664a)
+(https://github.com/vittoriadelsignore/Dashboard_Tableau_Ppto/commit/30086ebabcf67fb28408e9c8346467ba9df5664a)
