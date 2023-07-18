@@ -9,3 +9,7 @@ Datos de años anteriores.
 ### Mapa con el mayor % de siniestros
 
 ![Imagen del Dashboard](https://github.com/vittoriadelsignore/Dashboard_Tableau_Ppto/commit/30086ebabcf67fb28408e9c8346467ba9df5664a)
+
+
+### Link de acceso:
+https://public.tableau.com/app/profile/vittoria7301/viz/PresupuestoyVentadeplanesprepagoypostpago/Dashboard1
