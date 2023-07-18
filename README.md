@@ -5,6 +5,8 @@ Apertura por tipo de linea (prepago, postpago), tipo de servicio (movil, telefon
 Datos modificados por privacidad de la empresa.
 Datos de años anteriores.
 
+Se hizo un ajuste del Presupuesto en Mayo, por lo tanto se tomaron los datos reales de venta iguales para los datos del presupuesto, y de allí en adelante se hizo una proyección del presupuesto y de la venta estimada según el equipo de Marketing.
+
 
 ### Mapa con el mayor % de siniestros
 
